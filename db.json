@@ -54,6 +54,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "id": "ec40",
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall. ",
+      "author": "Nelson Mandela"
     }
   ],
   "likes": [
@@ -66,6 +71,42 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "id": "2cbd",
+      "quoteId": "ec40"
+    },
+    {
+      "id": "a87d",
+      "quoteId": "ec40"
+    },
+    {
+      "id": "2f32",
+      "quoteId": "ec40"
+    },
+    {
+      "id": "2ce3",
+      "quoteId": "ec40"
+    },
+    {
+      "id": "2343",
+      "quoteId": "ec40"
+    },
+    {
+      "id": "1cc9",
+      "quoteId": "11"
+    },
+    {
+      "id": "2358",
+      "quoteId": "11"
+    },
+    {
+      "id": "a045",
+      "quoteId": "11"
+    },
+    {
+      "id": "6958",
+      "quoteId": "11"
     }
   ]
 }
